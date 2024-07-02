@@ -11604,8 +11604,9 @@ blockquote p {
   color: var(--tg-heading-color);
   margin-bottom: 30px;
 }
-.contact__info-wrap > .list-wrap > li:last-child {
+.contact__info-wrap{
   margin-bottom: 0;
+  padding: 50px 0px 0px 200px;
 }
 .contact__info-wrap > .list-wrap > li .icon {
   width: 40px;
@@ -11665,6 +11666,9 @@ blockquote p {
     margin-left: 0;
     padding: 40px 30px 40px;
   }
+  .contact__info-wrap{
+    padding: 50px 0px 0px 100px;
+  }
 }
 @media (max-width: 991.98px) {
   .contact__form-wrap {
@@ -11674,6 +11678,9 @@ blockquote p {
 @media (max-width: 767.98px) {
   .contact__form-wrap {
     padding: 40px 25px 40px;
+  }
+  .contact__info-wrap{
+    padding: 0px 0px 0px 0px;
   }
 }
 .contact__form .title {
@@ -11856,6 +11863,7 @@ blockquote p {
 }
 .footer__widget {
   margin-bottom: 40px;
+  padding: 0 0 0 30px;
 }
 .footer__widget-title {
   color: var(--tg-color-white-default);

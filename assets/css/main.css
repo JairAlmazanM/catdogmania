@@ -2499,6 +2499,7 @@ textarea {
   position: relative;
   z-index: 1;
   padding: 40px 0 0;
+  background-image: url("../img/banner/banner_bg.jpg");
 }
 .banner__bg-two {
   background-size: cover;
@@ -2534,6 +2535,9 @@ textarea {
   .banner__bg-two {
     padding: 80px 0 90px;
   }
+  .banner__bg{
+    background-image: url('../img/banner/banner_bg_sm.jpg');
+  }
 }
 @media (max-width: 767.98px) {
   .banner__bg-two {
@@ -2564,7 +2568,7 @@ textarea {
 @media (max-width: 991.98px) {
   .banner__content {
     text-align: center;
-    margin: 0 0 50px;
+    margin: 200px 0 50px;
   }
 }
 .banner__content .title {
@@ -4031,7 +4035,7 @@ textarea {
 .about__img-four img:nth-child(2) {
   position: absolute;
   right: 40px;
-  top: 22%;
+  top: 60%;
   -webkit-border-radius: 15px;
   -moz-border-radius: 15px;
   -o-border-radius: 15px;

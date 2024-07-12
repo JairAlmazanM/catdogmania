@@ -9641,13 +9641,13 @@ textarea {
   color: var(--tg-theme-primary);
 }
 .why__we-are-img .shape-one {
-  left: 24%;
-  top: -4%;
+  left: 21%;
+  top: -7%;
 }
 @media (max-width: 1199.98px) {
   .why__we-are-img .shape-one {
-    left: 30%;
-    top: -6%;
+    left: 21%;
+    top: -9%;
   }
 }
 @media (max-width: 767.98px) {

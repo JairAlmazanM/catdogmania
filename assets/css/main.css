@@ -2497,7 +2497,7 @@ textarea {
   background-size: cover;
   background-position: center;
   position: relative;
-  z-index: 1;
+  z-index: 2;
   padding: 40px 0 0;
   background-image: url("../img/banner/banner_bg.jpg");
 }
@@ -3391,9 +3391,10 @@ textarea {
   -o-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  position: absolute;
-  right: -90px;
-  bottom: 33%;
+  position: fixed;
+  bottom: 5%;
+  left: 85%;
+  z-index: 99; /* Ensures it stays on top of other content */
 }
 @media (max-width: 1500px) {
   .healthy-pets {
@@ -3404,6 +3405,7 @@ textarea {
   .healthy-pets {
     right: 0;
     bottom: 13%;
+    left: 70%;
   }
 }
 .healthy-pets .icon {

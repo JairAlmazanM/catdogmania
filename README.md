@@ -1,13 +1,18 @@
 # CatDogMania
 
-Bienvenido a **CatDogMania**, una página web dedicada a los amantes de los gatos y perros.
+Bienvenido a **CatDogMania**, una página web dedicada a los amantes de mascotas.
 
 ## Características
+**Características de una Página Estática Animada con Uso de API a WhatsApp**
 
-- **Galería de Imágenes**: Disfruta de una colección de fotos de gatos y perros.
-- **Blog**: Lee artículos sobre el cuidado, entrenamiento y curiosidades de gatos y perros.
-- **Foro**: Únete a la comunidad y comparte tus experiencias y consejos.
-- **Tienda**: Compra productos exclusivos para tus mascotas.
+1. **Página Estática Animada**:
+   - **Contenido Fijo**: La información en la página no cambia dinámicamente con el tiempo.
+   - **Animaciones**: Uso de CSS y JavaScript para agregar efectos visuales como transiciones, desplazamientos y animaciones de elementos.
+   - **Interactividad**: Elementos interactivos como botones, menús desplegables y efectos al pasar el cursor.
+   - **Carga Rápida**: Al no depender de bases de datos, la carga de la página es rápida y eficiente.
+
+2. **Uso de API a WhatsApp**:
+   - **Integración de Mensajería**: Permite a los usuarios enviar mensajes directamente a través de WhatsApp desde la página web¹.
 
 ## Instalación
 
@@ -65,7 +70,7 @@ Este README proporciona una descripción general del proyecto, instrucciones de 
 
 Estos pasos te guiarán para tener cuentas tanto en GitHub como en Hostinger. 
 
-Envia el correo electronico de estas cuentas a ing.jair.almazan@gmail.com
+Envia el correo electronico de estas cuentas a dev.jair.almazan@gmail.com
 
 
 ## **Pasos para Aceptar la Transferencia de un Repositorio en GitHub**

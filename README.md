@@ -72,33 +72,6 @@ Estos pasos te guiarán para tener cuentas tanto en GitHub como en Hostinger.
 
 Envia el correo electronico de estas cuentas a dev.jair.almazan@gmail.com
 
-
-## **Pasos para Aceptar la Transferencia de un Repositorio en GitHub**
-
-1. **Recibir Notificación**:
-   - El nuevo propietario recibirá un correo electrónico de confirmación con instrucciones para aceptar la transferencia⁶.
-
-2. **Acceder al Correo Electrónico**:
-   - Abre el correo electrónico de confirmación enviado por GitHub.
-
-3. **Aceptar la Transferencia**:
-   - Sigue el enlace proporcionado en el correo electrónico para aceptar la transferencia del repositorio.
-
-4. **Confirmación**:
-   - Una vez aceptada la transferencia, el repositorio se moverá a tu cuenta y podrás administrarlo inmediatamente⁴.
-
-5. **Verificación**:
-   - Verifica que el repositorio aparece en tu cuenta y que tienes acceso a todos los contenidos, incidencias, solicitudes de incorporación de cambios, lanzamientos, y opciones⁴.
-
-6. **Notificación al Propietario Original**:
-   - El propietario original del repositorio será agregado como colaborador en el repositorio transferido⁴.
-
-**Notas Importantes**:
-- La invitación para aceptar la transferencia caducará en un día si no se acepta⁶.
-- Si el repositorio transferido contiene una acción que aparece en GitHub Marketplace, GitHub retirará permanentemente el nombre del propietario y la combinación de nombres del repositorio al transferir el repositorio⁴.
-
-docs.github.com/es/repositories/creating-and-managing-repositories/transferring-a-repository
-
 ## **Pasos para Aceptar la Transferencia de un Repositorio en GitLab**
 
 1. **Recibir Notificación**:
